@@ -1,0 +1,19 @@
+const http = require('http')
+//CommonJS => require
+//ESModules => import/export
+//  "type": "module", basta especificar no package.json
+
+
+npm init -y //cria rapidamente package.json
+
+
+-http
+    Metodo http
+    url
+    
+
+
+Streams
+readable streams - do front para back
+writable streams - do back para front
+
